@@ -1,4 +1,4 @@
-Week 01 — Cybersecurity Lab Setup
+Week 01 - Cybersecurity Lab Setup
 
 Project Overview
 
